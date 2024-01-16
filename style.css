@@ -1,0 +1,106 @@
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #cfb6b6;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #142e54;
+            color: #ffffff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        header h1 {
+            font-size: 36px;
+        }
+
+        nav {
+            background-color: #c2ccc5;
+            text-align: center;
+            padding: 10px;
+        }
+
+        nav a {
+            color: #392e11;
+            text-decoration: none;
+            margin:  50px;
+            font-weight: bold;
+            padding: 10px;
+        }
+
+        nav a:hover {
+            background-color: #a7967e;
+            color: #FFFFFF;
+        }
+/* This is for picture sizing */
+        img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    max-height: 400px;
+        }
+        .biodata-container {
+            display: flex;
+            align-items: center;
+            background-color: #fefefe;
+        }
+        section {
+            padding: 20px;
+            background-color: #fff;
+            margin: 20px;
+            border-radius: 5px;
+        }
+
+        h2 {
+            color: #333;
+            font-size: 24px;
+        }
+
+        .image-container {
+            text-align: center;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+/* This is for table*/
+        table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+        }
+
+        th, td {
+    border: 1px solid #ddd;
+    padding: 15px;
+    text-align: left;
+    background-color: #fffefe;
+    text-align: center;
+        }
+
+        th {
+    background-color: #333;
+    color: #fff;
+        }
+
+        ul {
+            list-style: disc;
+            margin-left: 20px;
+        }
+
+        footer {
+            background-color: #142e54;
+            color: #ffffff;
+            text-align: center;
+            padding: 10px;
+        }
+
+    
+    </style>
